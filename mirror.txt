@@ -134,3 +134,4 @@ docker.io/library/xwiki:latest
 docker.io/library/yourls:latest
 docker.io/library/znc:latest
 docker.io/library/zookeeper:latest
+docker.io/linuxserver/qBittorrent:latest
